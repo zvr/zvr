@@ -1,16 +1,55 @@
-### Hi there 👋
+# Αλέξιος Ζάβρας
 
-<!--
-**zvr/zvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technologies
 
-Here are some ideas to get you started:
+Things that I know,
+although in some I am (much) more **confident** than in others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ZX Basic,
+FORTRAN,
+**C**,
+**Unix tools**,
+Pascal,
+COBOL,
+SQL,
+**LISP**,
+**Prolog**,
+FORTH,
+**PostScript**,
+Smalltalk,
+**Tcl**,
+**SGML**,
+**HTML**,
+JavaScript,
+**XML**,
+**CSS**,
+C++,
+Java,
+**Python**,
+Ruby,
+Go,
+APL,
+Rust,
+...
+(in rough chronological order)
+
+**Unix**
+(Linux, Irix, Solaris, BSD, SunOS, HP-UX, System V, etc.),
+MacOS,
+DOS,
+Microsoft Windows,
+Cisco IOS,
+JunOS.
+
+RCS, SCCS, svn, hg, git.
+
+**vi**,
+**troff**,
+TeX,
+**LaTeX**,
+FrameMaker,
+Microsoft Word,
+Microsoft Excel,
+Microsoft PowerPoint,
+vim,
+LibreOffice.
