@@ -35,15 +35,16 @@ Rust,
 
 **Unix**
 (Linux, Irix, Solaris, BSD, SunOS, HP-UX, System V, etc.),
+Microsoft Windows,
 MacOS,
 DOS,
-Microsoft Windows,
 Cisco IOS,
 JunOS.
 
 RCS, SCCS, svn, hg, git.
 
 **vi**,
+vim,
 **troff**,
 TeX,
 **LaTeX**,
@@ -51,5 +52,4 @@ FrameMaker,
 Microsoft Word,
 Microsoft Excel,
 Microsoft PowerPoint,
-vim,
 LibreOffice.
